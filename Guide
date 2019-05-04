@@ -1,0 +1,11 @@
+This repository contains several examples of proof by parameterised coinduction.
+
+These examples compile with Coq 8.9 and require opam and paco to be installed through opam.
+
+
+Paco can be installed by performing the following in a terminal:
+opam repo add coq-released https://coq.inria.fr/opam/released
+opam install coq-paco
+
+
+
